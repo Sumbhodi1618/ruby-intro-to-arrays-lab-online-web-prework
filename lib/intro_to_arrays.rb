@@ -18,6 +18,7 @@ def last_element(array)
   array[-1]
 end
 
+<<<<<<< HEAD
 def first_element_with_array_methods(array)
   array.first 
 end
@@ -29,4 +30,7 @@ end
 def length_of_array(array)
   array.length
 end
+=======
+
+>>>>>>> 86f7dce38280edf00bd9f025ff45357ef8841975
 
